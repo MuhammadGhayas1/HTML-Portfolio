@@ -1,9 +1,3 @@
-Here’s a **clean, professional `README.md`** you can **directly copy-paste** into your GitHub repo.
-It’s written to look good for **internship reviewers** (simple, honest, no overclaiming).
-
----
-
-```md
 # 🌐 Personal Portfolio Website (HTML)
 
 This is a multi-page **personal portfolio website** built using **pure HTML**.  
@@ -47,4 +41,5 @@ The goal of this project is to strengthen core HTML fundamentals before moving t
 > No CSS or JavaScript is used in this project.  
 > Styling and interactivity will be added in future projects.
 
+![Alt text for the image](/assets/images/Home.png)
 
